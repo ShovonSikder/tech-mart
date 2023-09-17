@@ -171,7 +171,6 @@ justify-content: center;
     text-align: justify;
 }
 .social-media{
-   margin-top: 5%; 
    display: flex;
    gap: 15px;
 }
